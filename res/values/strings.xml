@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">育苗护苗一体化绿色智能防沙固土装置</string>
+    <string name="start">device_1</string>
+    <string name="over">device_2</string>
+    <string name="limitNum">\"limit 10 \"</string>
+    <string name="title_activity_vibration">Vibration</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="WA">加权移动平均滤波</string>
+    <string name="VARIANCE">粗大误差剔除</string>
+    <string name="ROC">变化率阈值</string>
+    <string name="Temperature">温度</string>
+    <string name="Pressure">压力</string>
+    <string name="Vibration">震动</string>
+    <string name="Inclination">倾角</string>
+    <string name="LineChart">折线图</string>
+    <string name="device1">device1</string>
+    <string name="device2">device2</string>
+    <string name="title_activity_device">device</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
